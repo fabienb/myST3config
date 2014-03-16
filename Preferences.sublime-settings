@@ -3,7 +3,7 @@
     "bold_folder_labels": true,
     "caret_style": "phase",
     "close_windows_when_empty": false,
-    "color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Bright.tmTheme", // requires Tomorrow
+    "color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Bright.tmTheme", // requires Tomorrow theme
     "detect_indentation": true,
     "dictionary": "Packages/Language - English/en_GB.dic",
     "ensure_newline_at_eof_on_save": true,
@@ -35,8 +35,8 @@
         "trailing_spaces" // unstable
     ],
     "open_files_in_new_window": false,
-    "origami_auto_close_empty_panes": true, // requires Origami
-    "origami_auto_zoom_on_focus": 0.65, // requires Origami
+    "origami_auto_close_empty_panes": true, // requires Origami package
+    "origami_auto_zoom_on_focus": 0.65, // requires Origami package
     "overlay_scroll_bars": "enabled",
     "rulers": [
         60
@@ -46,7 +46,7 @@
     "spell_check": true,
     "tab_completion": true,
     "tab_size": 2,
-    "theme": "Soda Dark 3.sublime-theme", // requires Soda
+    "theme": "Soda Dark 3.sublime-theme", // requires Soda theme
     "tree_animation_enabled": true,
     "trim_trailing_white_space_on_save": true,
     "wide_caret": true,
