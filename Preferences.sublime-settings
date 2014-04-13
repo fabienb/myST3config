@@ -34,7 +34,7 @@
         "Prefixr", // lots of 404 (as of today)
         "trailing_spaces" // unstable (as of today)
     ],
-    "open_files_in_new_window": false,
+    "open_files_in_new_window": false, // Mac OSX only
     "origami_auto_close_empty_panes": true, // requires Origami package
     "origami_auto_zoom_on_focus": 0.65, // requires Origami package
     "overlay_scroll_bars": "enabled",
@@ -42,7 +42,7 @@
         60
     ],
     "scroll_past_end": true,
-    "soda_folder_icons": true,
+    "soda_folder_icons": true, // Soda theme specific
     "spell_check": true,
     "tab_completion": true,
     "tab_size": 2,
