@@ -3,7 +3,7 @@
     "bold_folder_labels": true,
     "caret_style": "phase",
     "close_windows_when_empty": false,
-    "color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Bright.tmTheme", // requires Tomorrow theme
+    "color_scheme": "Packages/User/Afterglow (SL).tmTheme", // requires Afterglow theme: github.com/YabataDesign/afterglow-theme
     "detect_indentation": true,
     "dictionary": "Packages/Language - English/en_GB.dic",
     "ensure_newline_at_eof_on_save": true,
@@ -31,8 +31,8 @@
     "highlight_modified_tabs": true,
     "ignored_packages": [
         "Vintage",
-        "Prefixr", // lots of 404
-        "trailing_spaces" // unstable
+        "Prefixr", // lots of 404 (as of today)
+        "trailing_spaces" // unstable (as of today)
     ],
     "open_files_in_new_window": false,
     "origami_auto_close_empty_panes": true, // requires Origami package
@@ -46,7 +46,8 @@
     "spell_check": true,
     "tab_completion": true,
     "tab_size": 2,
-    "theme": "Soda Dark 3.sublime-theme", // requires Soda theme
+    "tabs_small": true,
+    "theme": "Afterglow-orange.sublime-theme", // requires Afterglow theme
     "tree_animation_enabled": true,
     "trim_trailing_white_space_on_save": true,
     "wide_caret": true,
