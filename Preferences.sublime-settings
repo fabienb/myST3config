@@ -46,7 +46,7 @@
     "spell_check": true,
     "tab_completion": true,
     "tab_size": 2,
-    "tabs_small": true,
+    "tabs_small": true, // Afterglow theme specific
     "theme": "Afterglow-orange.sublime-theme", // requires Afterglow theme
     "tree_animation_enabled": true,
     "trim_trailing_white_space_on_save": true,
