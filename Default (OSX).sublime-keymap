@@ -22,4 +22,14 @@
 }, {
     "keys": ["ctrl+s"],
     "command": "toggle_side_bar"
+}, {
+    "keys": ["super+shift+up"],
+    "command": "swap_line_up"
+}, {
+    "keys": ["super+shift+down"],
+    "command": "swap_line_down"
+}, {
+    "button": "button1", "count": 2,
+    "command": "expand_selection",
+    "args": {"to": "scope"}
 }]

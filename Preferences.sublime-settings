@@ -1,9 +1,10 @@
 {
 	"auto_complete_commit_on_tab": true,
 	"bold_folder_labels": true,
+	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/Tomorrow-Night-Bright (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Lyte (SL).tmTheme",
 	"copy_with_empty_selection": false,
 	"detect_indentation": true,
 	"detect_slow_plugins": false,
@@ -32,21 +33,21 @@
 		".bundle",
 		".sass-cache"
 	],
-	"font_face": "Inconsolata",
+	"font_face": "Hack",
 	"font_options":
 	[
 		"subpixel_antialias",
 		"no_bold"
 	],
-	"font_size": 11,
+	"font_size": 10,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"trailing_spaces",
 		"CSS",
-		"Prefixr",
-		"Vintage"
+		"Vintage",
+		"Prefixr"
 	],
 	"indent_guide_options":
 	[
@@ -59,7 +60,7 @@
 	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
-		56
+		86
 	],
 	"scroll_past_end": true,
 	"soda_folder_icons": true,
