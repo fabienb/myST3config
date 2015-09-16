@@ -1,17 +1,15 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
 	"installed_packages":
 	[
 		"Autoprefixer",
-		"CodeComplice",
 		"Color Highlighter",
-		"ColorPicker",
 		"CombineMediaQueries",
 		"Compare Side-By-Side",
 		"CSS Colors",
-		"CSS Comments",
 		"CSS3",
 		"CSScomb",
 		"DocBlockr",
