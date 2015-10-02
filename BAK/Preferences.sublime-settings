@@ -39,7 +39,7 @@
 		"subpixel_antialias",
 		"no_bold"
 	],
-	"font_size": 10,
+	"font_size": 11,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -64,7 +64,7 @@
 	"spell_check": true,
 	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "SoDaReloaded.sublime-theme",
+	"theme": "SoDaReloaded Dark.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"tree_animation_enabled": true,
 	"trim_trailing_white_space_on_save": true,
