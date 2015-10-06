@@ -1,10 +1,13 @@
 [{
+    "caption": "File: New File Relative to Project Root",
     "keys": ["ctrl+t"],
     "command": "side_bar_new_file2"
 }, {
+    "caption": "File: Rename",
     "keys": ["f2"],
     "command": "side_bar_rename"
 }, {
+    "caption": "File: Search Files",
     "keys": ["ctrl+super+alt+f"],
     "command": "side_bar_find_files_path_containing"
 }, {
@@ -29,10 +32,12 @@
     "keys": ["super+shift+down"],
     "command": "swap_line_down"
 }, {
-    "button": "button1", "count": 2,
+    "button": "button1",
+    "count": 2,
     "command": "expand_selection",
     "args": {"to": "scope"}
 }, {
+    // this requires my personal ESCmapper plugin.
     "keys": ["escape"],
     "command": "exit_auto_complete_and_insert_mode",
     "context": [{
