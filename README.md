@@ -72,6 +72,32 @@ Sublime keeps scrolling after it reaches the end of the document. To me, this fi
 ## "soda_folder_icons": true
 Soda-theme specific. Displays the folder icons. (May be redundant now that Sublime has its own icons enabled by default)
 
+## "spell_check": true
+Enables spell checking.
 
+## "tab_completion": true
+Sets the TAB key to always complete the code suggestion.
 
-[...]
+## "tab_size": 2
+Sets the default value for indentation.
+
+## "theme": "SoDaReloaded Dark.sublime-theme"
+My theme of choice.
+
+## "translate_tabs_to_spaces": false
+False because I'd rather use tabs than spaces. It's all about how someone likes to work, but on a document with a couple hundred lines of code, you'd save Kb by using tabs instead of spaces...
+
+## "tree_animation_enabled": true
+Visual enhancement. Controls side bar animation when expanding or collapsing folders.
+
+## "trim_trailing_white_space_on_save": true
+Remove all the blank spaces left at the end of a line, for a cleaner code.
+
+## "wide_caret": true
+One more setting to control the caret style, easier to spot.
+
+## "word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
+Controls what characters are used as separators. If you remove the dash from here, you'll be able to double click on this-text and select it at once. Leave as it is if you want to select each word separately.
+
+## "word_wrap": true
+With this setting the code wraps once it hits the edge of the window
