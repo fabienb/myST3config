@@ -9,7 +9,7 @@ My SublimeText3 personal settings.
 This tells sublime what key will accept completion within the autocomplete popup. So tab will still activate snippets. You can try settings tab_completion to false.
 
 ### "bold_folder_labels": true
-For themes that support it, this makes the folder name in the sidebar appear with a bold font.
+This line makes the folders in the sidebar bold. Helpful as a visual cue, even if you rely on Cntrl+p most of the time.
 
 ### "caret_extra_width": 1 / "caret_style": "phase"
 Control the caret style, easier to spot.
@@ -31,6 +31,9 @@ A plugin may be making SublimeText unresponsive by taking too long in its on_loa
 
 ### "dictionary": "Packages/Language - English/en_GB.dic"
 You can set the default dictionary to use for spelling check in Sublime. This sets the dictionary to British English.
+
+### "draw_indent_guides": true
+This line draws horizontal rules and is super helpful for visually checking your code indents are correct.
 
 ### "ensure_newline_at_eof_on_save": true
 Makes sure you have a last empty line when you save a file. Helpful if you concatenate without minifying as it keeps the code readable.
@@ -56,7 +59,10 @@ Set these to your own liking
 ### "indent_guide_options": []
 This will turn on highlighting of the active indentation guide as well as the stacked, or parent, indentation guides.
 
-### 	"open_files_in_new_window": false
+### "match_brackets" (multiple lines)
+If you create an opening bracket, these lines automatically add the closing bracket. 
+
+### "open_files_in_new_window": false
 OSX-Only: open file from Finder in new tab. not new window
 
 ### "origami_auto_close_empty_panes" / "origami_auto_zoom_on_focus"
@@ -70,6 +76,9 @@ Helps you set a vertical line where you want your inline documentation to break
 
 ### "scroll_past_end": true
 Sublime keeps scrolling after it reaches the end of the document. To me, this fixes a bug where the selection of the code in the last lines was always too quirky.
+
+### "show_tab_close_buttons": false
+Every little helps.
 
 ### "soda_folder_icons": true
 Soda-theme specific. Displays the folder icons. (May be redundant now that Sublime has its own icons enabled by default)
@@ -87,7 +96,7 @@ Sets the default value for indentation.
 My theme of choice.
 
 ### "translate_tabs_to_spaces": false
-False because I'd rather use tabs than spaces. It's all about how someone likes to work, but on a document with a couple hundred lines of code, you'd save Kb by using tabs instead of spaces...
+False because I'd rather use tabs than spaces. It's all about how someone likes to work, but on a document with a couple hundred lines of code, you'd save Kb by using tabs instead of spaces... I know someone would not agree, can't help.
 
 ### "tree_animation_enabled": true
 Visual enhancement. Controls side bar animation when expanding or collapsing folders.
