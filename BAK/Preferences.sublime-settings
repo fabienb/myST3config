@@ -45,6 +45,7 @@
 	"ignored_packages":
 	[
 		"CSS",
+		"Markdown",
 		"Vintage"
 	],
 	"indent_guide_options":
