@@ -45,5 +45,33 @@ Set these to your own liking
 ## "font_options": [...] / "font-size"
 Options for better readability. Of course they depend on the font in use.
 
+## "highlight_line": true / "highlight_modified_tabs": true
+These options help you identify where you changes are made in a file (before you save).
+
+## "ignored_packages"
+Set these to your own liking
+
+## "indent_guide_options": []
+This will turn on highlighting of the active indentation guide as well as the stacked, or parent, indentation guides.
+
+## 	"open_files_in_new_window": false
+OSX-Only: open file from Finder in new tab. not new window
+
+## "origami_auto_close_empty_panes" / "origami_auto_zoom_on_focus"
+These are Origami-specific. Origami is a package that splits the window however you like.
+
+## "overlay_scroll_bars": "enabled"
+Visual enhancement. Only show the scrollbars when actually scrolling (and don't take UI space).
+
+## "rulers"
+Helps you set a vertical line where you want your inline documentation to break
+
+## "scroll_past_end": true
+Sublime keeps scrolling after it reaches the end of the document. To me, this fixes a bug where the selection of the code in the last lines was always too quirky.
+
+## "soda_folder_icons": true
+Soda-theme specific. Displays the folder icons. (May be redundant now that Sublime has its own icons enabled by default)
+
+
 
 [...]

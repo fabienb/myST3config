@@ -61,7 +61,7 @@
 		86
 	],
 	"scroll_past_end": true,
-	"soda_folder_icons": true,
+	"soda_folder_icons": false,
 	"spell_check": true,
 	"tab_completion": true,
 	"tab_size": 2,
