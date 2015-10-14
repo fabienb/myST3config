@@ -32,7 +32,8 @@
 		"CVS",
 		"tmp",
 		".bundle",
-		".sass-cache"
+		".sass-cache",
+		".codekit-cache"
 	],
 	"font_face": "Hack",
 	"font_options":

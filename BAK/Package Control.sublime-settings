@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"Autoprefixer",
+		"Cheat Sheets",
 		"Color Highlighter",
 		"CombineMediaQueries",
 		"Compare Side-By-Side",
@@ -23,6 +24,7 @@
 		"Goto-CSS-Declaration",
 		"HTML-CSS-JS Prettify",
 		"HTML5",
+		"Icon Fonts",
 		"ImageMagick",
 		"Insert Nums",
 		"Jade",
@@ -39,6 +41,7 @@
 		"Package Control",
 		"Package Syncing",
 		"Processing",
+		"React Templates",
 		"RemoteEdit",
 		"Sass",
 		"ScopeHunter",
