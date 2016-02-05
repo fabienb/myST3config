@@ -4,11 +4,12 @@
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/SublimeLinter/Lyte-Dark (SL).tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"copy_with_empty_selection": false,
 	"detect_indentation": true,
 	"detect_slow_plugins": false,
 	"dictionary": "Packages/Language - English/en_GB.dic",
+	"draw_indent_guides": true,
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"file_exclude_patterns":
@@ -31,26 +32,39 @@
 		"CVS",
 		"tmp",
 		".bundle",
-		".sass-cache"
+		".sass-cache",
+		".codekit-cache"
 	],
 	"font_face": "Hack",
 	"font_options":
 	[
-		"subpixel_antialias",
+		"gray_antialias",
 		"no_bold"
 	],
-	"font_size": 10,
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"CSS"
+		"CSS",
+		"Markdown",
+		"Vintage"
 	],
 	"indent_guide_options":
 	[
 		"draw_normal",
 		"draw_active"
 	],
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"material_theme_accent_lime": true,
+	"material_theme_contrast_mode": true,
+	"material_theme_panel_separator": true,
+	"material_theme_small_tab": true,
+	"material_theme_tabs_autowidth": true,
 	"open_files_in_new_window": false,
 	"origami_auto_close_empty_panes": true,
 	"origami_auto_zoom_on_focus": 0.65,
@@ -60,11 +74,12 @@
 		86
 	],
 	"scroll_past_end": true,
+	"show_tab_close_buttons": false,
 	"soda_folder_icons": true,
 	"spell_check": true,
 	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "SoDaReloaded.sublime-theme",
+	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"tree_animation_enabled": true,
 	"trim_trailing_white_space_on_save": true,
