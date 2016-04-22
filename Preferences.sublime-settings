@@ -38,7 +38,7 @@
 	"font_face": "Hack",
 	"font_options":
 	[
-		"gray_antialias",
+		"subpixel_antialias",
 		"no_bold"
 	],
 	"font_size": 12,
@@ -61,8 +61,12 @@
 	"match_brackets_content": true,
 	"match_brackets_square": true,
 	"material_theme_accent_lime": true,
+	"material_theme_bold_tab": true,
+	"material_theme_compact_panel": true ,
+	"material_theme_compact_sidebar": true,
 	"material_theme_contrast_mode": true,
 	"material_theme_panel_separator": true,
+	"material_theme_small_statusbar": true ,
 	"material_theme_small_tab": true,
 	"material_theme_tabs_autowidth": true,
 	"open_files_in_new_window": false,
